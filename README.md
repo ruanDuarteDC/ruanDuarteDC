@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">No  momento sou  desenvolvedor  estagiário ,<br> estou adquirindo experiência e visibilidade no trabalho,<br>manterei este perfil e as demais redes sociais atualizadas mensalmente  .</h4>
+<h4 align="center">No momento sou desenvolvedor estagiário ,<br>estou adquirindo experiência e visibilidade no trabalho,<br>manterei este perfil e as demais redes sociais atualizadas mensalmente  .</h4>
 
 ###
 
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
@@ -56,14 +56,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ruanDuarteDC" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ruanDuarteDC" height="150" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/ruanDuarteDC/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ruanDuarteDC/count.svg?"  />
-</div>
+<img href="https://raw.githubusercontent.com/ruanDuarteDC/ruanDuarteDC/blob/output/snake.svg" alt="Snake animation" />
 
 ###
