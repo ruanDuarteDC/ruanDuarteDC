@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">No momento sou desenvolvedor estagiário ,<br>estou adquirindo experiência e visibilidade no trabalho,<br>manterei este perfil e as demais redes sociais atualizadas mensalmente  .</h4>
+<h4 align="center">No  momento sou  desenvolvedor  estagiário ,<br> estou adquirindo experiência e visibilidade no trabalho,<br>manterei este perfil e as demais redes sociais atualizadas mensalmente  .</h4>
 
 ###
 
